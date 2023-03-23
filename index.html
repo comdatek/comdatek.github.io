@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <body>
-    <h1>For test purpose only</h1>
-    <p>See<a href="https://www.comdatek.de">your website</p>
-  </body>
+  head>
+    <meta http-equiv="Refresh" content="0; url=https://www.comdatek.de" />
+  </head>
+  <!-- 1. Fallback if it doesnt refresh correctly -->  
+  <body onload="window.location = 'https://www.comdatek.de'"></body>
 </html>
