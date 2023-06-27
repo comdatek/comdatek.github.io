@@ -1,5 +1,7 @@
 # Looking for an apprenticeship as "Fachinformatiker für Anwendungsentwicklung" in Germany?
 
+Join us.
+
 Basic requirements:
 
 - Good German language skills.
@@ -7,4 +9,4 @@ Basic requirements:
 - You can solve problems independently.
 - You have the motivation to familiarise yourself with new topics independently.
 
-More requirements can be found on the job posting on your website or Indeed.
+More requirements can be found on the job posting on our website or Indeed.
