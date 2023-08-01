@@ -1,4 +1,4 @@
-# Looking for an apprenticeship as "Fachinformatiker für Anwendungsentwicklung" in Germany?
+# Looking for an job as Javascript Fullstack Developer in Germany?
 
 Join us.
 
@@ -9,4 +9,20 @@ Basic requirements:
 - You can solve problems independently.
 - You have the motivation to familiarise yourself with new topics independently.
 
-More requirements can be found on the job posting on our website or Indeed.
+# TODO
+
+- Stellenangebot für Software entwickler
+- Impressum und Datenschutzerklärung auf Comdatek.de verlinken
+- 
+
+krtghtiknhz
+- CSS
+- Links
+- Images
+
+# df
+
+- df
+- df
+
+
